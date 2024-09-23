@@ -1,4 +1,3 @@
 # horororok.github.io
 
-
-practice  -ing
+### 이력서
